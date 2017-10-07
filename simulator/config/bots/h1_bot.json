@@ -1,0 +1,15 @@
+[
+    {
+      "AI": "simulator.code.simple_ai",
+      "START_POS": [365, 635],
+      "START_DIR": [-1,0],
+      "SPEED": 1,
+      "RADIUS": 5,
+      "COLOR": "orange",
+      "MAX_SPEED": 1,
+      "MAX_ANGLE": 80,
+      "MAX_RANGE": 10000,
+      "LIDAR_RESOLUTION": 360,
+      "RAYS_PER_FRAME": 360
+    }
+  ]
